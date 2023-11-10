@@ -1,0 +1,1 @@
+This is the file from which i want to tak ethe input 
